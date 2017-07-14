@@ -3,7 +3,7 @@
 IO-1 stands for progress. Simplifying your development and infrastructure so you can focus on value. We bring extensive knowledge of all things cloud, containers and coding to the table. We care about results, pragmatism and fun. We offer standardized 
 
 ## What we offer
-* Personal guidance to the world of modern architecture, no buzzwords 
+* Personal guidance to the world of modern architecture, no buzzwords just pragmatic results.
 * A standardized environment based purely on open source technology
 * Training, workshops and tools??
 
