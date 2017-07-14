@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:io1-cloud/io1-cloud.github.io.git
+	branch = master
