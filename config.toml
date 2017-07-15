@@ -1,4 +1,4 @@
-baseURL = "http://blog.io1.cloud/"
+baseURL = "http://io1.cloud/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "IO-1 website and blog"
 theme = "docdock"
